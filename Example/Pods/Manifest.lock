@@ -1,0 +1,16 @@
+PODS:
+  - InteractiveTransitionGesc (0.1.0)
+
+DEPENDENCIES:
+  - InteractiveTransitionGesc (from `../`)
+
+EXTERNAL SOURCES:
+  InteractiveTransitionGesc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  InteractiveTransitionGesc: 56b0dd6f6f479e6099dfc95e3fab31f5828f54cd
+
+PODFILE CHECKSUM: 63df13dfc9f2d3402922f03e77f05500186393c1
+
+COCOAPODS: 1.5.3

@@ -1,0 +1,6 @@
+framework module InteractiveTransitionGesc {
+  umbrella header "InteractiveTransitionGesc-umbrella.h"
+
+  export *
+  module * { export * }
+}
