@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'InteractiveTransitionGesc_Example' do
+  pod 'InteractiveTransitionGesc', :path => '../'
+
+  target 'InteractiveTransitionGesc_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
